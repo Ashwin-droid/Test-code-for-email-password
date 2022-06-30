@@ -1,4 +1,4 @@
-const vault = require("simple-and-secure-email-password");
+const vault = require("email-password");
 
 const main = async () => {
 const email = "example@example.com";
